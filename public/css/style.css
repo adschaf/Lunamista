@@ -1,0 +1,10 @@
+body {
+    background: url("img/cinema1.jpg");
+    background-size: cover;
+    background-position: center; 
+}
+
+body,html {
+    width: 100%;
+    height: 100%;
+}
